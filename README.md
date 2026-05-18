@@ -1,8 +1,9 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224220105
+# Name: Srinivasan S
+
+
 
 
 # AIM:
@@ -41,6 +42,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="727" height="710" alt="Screenshot 2026-05-13 091931" src="https://github.com/user-attachments/assets/2bcb51b3-a931-4953-b2fb-1fe53f971b91" />
 
 
 
@@ -59,6 +61,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="945" height="818" alt="Screenshot 2026-05-13 093440" src="https://github.com/user-attachments/assets/907344fd-18cd-4428-9bfd-ebe5aeaa5352" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -68,6 +71,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1025" height="611" alt="image" src="https://github.com/user-attachments/assets/60eb2579-8f02-4575-92ad-bcdc1832fcc8" />
 
 
 # PACKAGE DIAGRAM:
@@ -81,6 +85,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="833" height="729" alt="image" src="https://github.com/user-attachments/assets/bada0174-e638-49ac-b251-504a9e98e50a" />
 
 
 
@@ -97,7 +102,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-
+<img width="540" height="870" alt="image" src="https://github.com/user-attachments/assets/043bedee-fd0b-4ccc-92a7-8e640f66524b" />
 
 
 
@@ -120,6 +125,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="1212" height="891" alt="image" src="https://github.com/user-attachments/assets/78544054-4397-4ac5-a851-ed9345447aea" />
 
 
 
